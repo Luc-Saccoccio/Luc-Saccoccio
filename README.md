@@ -14,11 +14,8 @@ Well, I know how to use the following things:
   - OpenSSH
 - Python, I'm a at a low/medium level. Learning it mainly because it's simple.
 - OCaml, for school mainly.
+- Haskell (constant learning thought)
 - The very basic of C (just enough to know how to use, patch and configure Suckless Programs)
-
-And, because it seems interesting, or to contribute to other projects, I would like to learn:
-- Haskell, because it seems beautiful and mathematically logical (functional in fact).
-- C, because it's language used but most of my favourite projects.
 
 ### Repositories
 
@@ -32,5 +29,10 @@ I can divide my repositories in three categories:
   - [st](https://github.com/Luc-Saccoccio/st)
   - [tabbed](https://github.com/Luc-Saccoccio/tabbed)
   - [dmenu](https://github.com/Luc-Saccoccio/dmenu)
-- Bad ideas I always have, and that, sometimes, manifest as written programs:
+- Some other random projects:
   - [dtcli](https://github.com/Luc-Saccoccio/dtcli) (It's very bad, please don't look).
+  - [haskell-music](https://github.com/Luc-Saccoccio/haskell-music)
+
+### Mirrors
+
+As of February 28th, 2021, I now use Sourcehut in parallel. Here is the [profile](https://sr.ht/~luc-saccoccio/)
