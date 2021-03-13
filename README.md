@@ -31,4 +31,4 @@ I can divide my repositories in three categories:
   - [dmenu](https://github.com/Luc-Saccoccio/dmenu)
 - Some other random projects:
   - [dtcli](https://github.com/Luc-Saccoccio/dtcli) (It's very bad, please don't look).
-  - [haskell-music](https://github.com/Luc-Saccoccio/haskell-music)
+  - [mhusic](https://github.com/Luc-Saccoccio/muhsic) (Well, I'm a bit proud about this one).
