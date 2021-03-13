@@ -32,7 +32,3 @@ I can divide my repositories in three categories:
 - Some other random projects:
   - [dtcli](https://github.com/Luc-Saccoccio/dtcli) (It's very bad, please don't look).
   - [haskell-music](https://github.com/Luc-Saccoccio/haskell-music)
-
-### Mirrors
-
-As of February 28th, 2021, I now use Sourcehut in parallel. Here is the [profile](https://sr.ht/~luc-saccoccio/)
