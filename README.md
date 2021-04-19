@@ -15,6 +15,7 @@ Well, I know how to use the following things:
 - Python, I'm a at a low/medium level. Learning it mainly because it's simple.
 - OCaml, for school mainly.
 - Haskell (constant learning thought)
+- Rust (learning)
 - The very basic of C (just enough to know how to use, patch and configure Suckless Programs)
 
 ### Repositories
