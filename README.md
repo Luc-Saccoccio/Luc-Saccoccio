@@ -18,6 +18,10 @@ Well, I know how to use the following things:
 - Rust (learning)
 - The very basic of C (just enough to know how to use, patch and configure Suckless Programs)
 
+I intend to learn :
+- Go
+- C (more then the basics)
+- Probaby [Hare](https://harelang.org/)
 ### Repositories
 
 I can divide my repositories in three categories:
