@@ -25,8 +25,7 @@ I intend to learn :
 ### Repositories
 
 I can divide my repositories in three categories:
-- School/Fun repositories:
-  - [informatique-mpsi](https://github.com/Luc-Saccoccio/informatique-mpsi)
+- "Archive" repositories:
   - [coding-contests](https://github.com/Luc-Saccoccio/coding-contests)
 - Builds of external open-source programs, mainly from the [Suckless Foundation](https://suckless.org/rocks/)
   - [dwmblocks](https://github.com/Luc-Saccoccio/dwmblocks)
