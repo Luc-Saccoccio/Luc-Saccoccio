@@ -12,16 +12,15 @@ Well, I know how to use the following things:
   - A shell (of course)
   - [Git](https://git-scm.com/)
   - OpenSSH
-- Python, I'm a at a low/medium level. Learning it mainly because it's simple.
+- Python, I'm a at a medium level. Learning it mainly because it's simple.
 - OCaml, for school mainly.
 - Haskell (constant learning thought)
-- Rust (learning)
 - The very basic of C (just enough to know how to use, patch and configure Suckless Programs)
 
 I intend to learn :
 - Go
 - C (more then the basics)
-- Probaby [Hare](https://harelang.org/)
+- Probably [Hare](https://harelang.org/)
 ### Repositories
 
 I can divide my repositories in three categories:
@@ -36,3 +35,4 @@ I can divide my repositories in three categories:
 - Some other random projects:
   - [dtcli](https://github.com/Luc-Saccoccio/dtcli) (It's very bad, please don't look).
   - [mhusic](https://github.com/Luc-Saccoccio/muhsic) (Well, I'm a bit proud about this one).
+  - [zamonia](https://github.com/Luc-Saccoccio/zamonia) (in progress)
